@@ -1,4 +1,4 @@
 # BetterDiscord
 
-> Plugins
-> Themes
+* Plugins
+* Themes
