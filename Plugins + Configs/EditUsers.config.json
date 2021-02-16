@@ -1,0 +1,68 @@
+{
+	"settings": {
+		"changeInActivity": true,
+		"changeInAppTitle": true,
+		"changeInAutoComplete": true,
+		"changeInChatTextarea": true,
+		"changeInChatWindow": true,
+		"changeInContextMenu": true,
+		"changeInDmCalls": true,
+		"changeInDmHeader": true,
+		"changeInDms": true,
+		"changeInDmsList": true,
+		"changeInFriendList": true,
+		"changeInGuildSettings": true,
+		"changeInInviteList": true,
+		"changeInMemberList": true,
+		"changeInMentions": true,
+		"changeInQuickSwitcher": true,
+		"changeInReactions": true,
+		"changeInRecentDms": true,
+		"changeInSearchPopout": true,
+		"changeInServers": true,
+		"changeInTyping": true,
+		"changeInUserAccount": true,
+		"changeInUserPopout": true,
+		"changeInUserProfile": true,
+		"changeInVoiceChat": true
+	},
+	"users": {
+		"440562936147345418": {
+			"color1": "rgba(82,233,30,1)",
+			"color3": "rgba(134,30,233,1)",
+			"ignoreTagColor": true,
+			"name": "TherioJunior",
+			"tag": "",
+			"useRoleColor": false
+		},
+		"793540395106828300": {
+			"color1": "rgba(233,30,99,1)",
+			"name": "[ ! ] PSU",
+			"removeIcon": true,
+			"removeStatus": false,
+			"status": "",
+			"statusEmoji": null,
+			"tag": "",
+			"url": "",
+			"useRoleColor": true
+		},
+		"770771947663523842": {
+			"color1": "rgba(233,30,99,1)",
+			"name": "[ + ] MoonSec",
+			"removeIcon": true,
+			"status": "",
+			"tag": "",
+			"url": "",
+			"useRoleColor": true
+		},
+		"369214631245512708": {
+			"name": "echo"
+		},
+		"713124967763411014": {
+			"name": "daavid"
+		},
+		"424058610256183306": {
+			"name": "Mi$$y"
+		}
+	}
+}

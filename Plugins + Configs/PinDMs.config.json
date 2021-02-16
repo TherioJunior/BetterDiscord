@@ -1,0 +1,39 @@
+{
+	"dmCategories": {
+		"1938504685690217": {
+			"collapsed": false,
+			"color": null,
+			"dms": [
+				"789637815994286080",
+				"800453303204446348"
+			],
+			"id": "1938504685690217",
+			"name": "Obfuscation",
+			"pos": 0
+		},
+		"9097344762721832": {
+			"collapsed": false,
+			"color": null,
+			"dms": [
+				"755103164000108766",
+				"788803621990039585",
+				"750776563557072958"
+			],
+			"id": "9097344762721832",
+			"name": "Friends",
+			"pos": 1
+		}
+	},
+	"preCategories": {
+		"blocked": false,
+		"friends": false,
+		"groups": false
+	},
+	"settings": {
+		"showCategoryAmount": true,
+		"showCategoryUnread": true,
+		"showPinIcon": true,
+		"sortInRecentOrder": false,
+		"sortInRecentOrderGuild": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"settings": {
+		"disableNotifications": true,
+		"disableVoiceNotifications": true,
+		"removeAutocomplete": true,
+		"removeInbox": true,
+		"removeMentions": true,
+		"removeMessages": true,
+		"removePinnedMessages": true,
+		"removeReactions": true,
+		"removeReplies": true,
+		"removeUsers": true,
+		"removeVoiceChats": true,
+		"removeVoiceUser": true
+	}
+}

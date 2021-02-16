@@ -1,0 +1,30 @@
+{
+	"amounts": {
+		"maxDaysAgo": 0,
+		"tooltipDelay": 0,
+		"tooltipWidth": 238
+	},
+	"choices": {
+		"timeLang": "own"
+	},
+	"colors": {
+		"tooltipColor": ""
+	},
+	"formats": {
+		"ownFormat": "$hour:$minute:$second, $day.$month.$year"
+	},
+	"settings": {
+		"addBoosters": false,
+		"addChannels": true,
+		"addCreation": true,
+		"addIcon": false,
+		"addJoin": true,
+		"addMembers": true,
+		"addOwner": true,
+		"addRegion": false,
+		"addRoles": true,
+		"cutSeconds": true,
+		"forceZeros": true,
+		"otherOrder": false
+	}
+}
