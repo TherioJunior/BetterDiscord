@@ -1,4 +1,3 @@
-# BetterDiscord
+# BetterDiscord Plugins + Themes
 
-* Plugins
-* Themes
+Download BetterDiscord [here](https://betterdiscord.app/)
